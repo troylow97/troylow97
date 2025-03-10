@@ -40,6 +40,3 @@ I love software development, music and board games.
 I got into software development through Warcraft modding and I have made games using Warcraft since I was 8:<br>
 https://www.hiveworkshop.com/threads/attack-of-the-lunatics-0-78.324515/
 
-I love boardgames, you can check out my collection below:
-https://boardgamegeek.com/user/troylow
-
